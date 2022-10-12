@@ -9,3 +9,4 @@ function API(){
         console.log(data)
     })
 }
+API();
